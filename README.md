@@ -6,4 +6,4 @@ Different exercises and little side projects made with python from different boo
 Every book is a folder.
 
 - Automating the boring stuff with python (18 Chaps)
-- How to think like a computer Scientist
+- How to think like a computer Scientist (21 Chaps)
